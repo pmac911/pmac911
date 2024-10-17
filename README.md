@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-### - 🌱 I’m currently learning new languages like C#, Python,
-### - 👯 I’m looking to collaborate on simple projects.
+### - 🌱 I’m currently learning Python and SQL
+### - 👯 I’m looking to collaborate on simple projects and in the future more advanced projects.
 ### - 🤔 I’m looking for help with ...
 ### - 💬 Ask me about ...
 ### - 📫 How to reach me: ...
